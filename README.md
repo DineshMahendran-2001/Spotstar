@@ -37,4 +37,4 @@ By combining the best features of popular streaming platforms like Spotify and H
 [https://github.com/DineshMahendran-2001/Spotstar.git](https://github.com/DineshMahendran-2001/Spotstar.git)
 
 # Contact
-For any inquiries or feedback, please contact the project maintainer at [dineshmahendran2001@gmail.com](dineshmahendran2001@gmail.com).
+For any inquiries or feedback, please contact the project maintainer at [dineshmahendran2001@gmail.com](mailto:dineshmahendran2001@gmail.com).
